@@ -1,0 +1,9 @@
+@charset "utf-8";
+/* CSS Document */
+body{ border-image:url(../img/fondos-de-comic_23-2147508673.jpg)}
+.horario{
+width:90%;
+	margin:0 auto;
+	background:#0DB9A7;
+	color:#000000;
+}
